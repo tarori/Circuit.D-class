@@ -2903,6 +2903,20 @@ Takuo Sawada&lt;br&gt;
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="104,1,58.42,55.88,IC1,GVDD,N$19,,,"/>
+<approved hash="104,1,58.42,45.72,IC1,AGND,GND,,,"/>
+<approved hash="104,1,96.52,15.24,IC1,PVCC4,PVCC,,,"/>
+<approved hash="104,1,96.52,20.32,IC1,PVCC3,PVCC,,,"/>
+<approved hash="104,1,96.52,35.56,IC1,PGND3,GND,,,"/>
+<approved hash="104,1,96.52,50.8,IC1,PGND2,GND,,,"/>
+<approved hash="104,1,96.52,66.04,IC1,PGND1,GND,,,"/>
+<approved hash="104,1,96.52,81.28,IC1,PVCC2,PVCC,,,"/>
+<approved hash="104,1,96.52,86.36,IC1,PVCC1,PVCC,,,"/>
+<approved hash="104,1,76.2,2.54,IC1,EXP,GND,,,"/>
+<approved hash="104,1,83.82,114.3,IC3,IN,VCC,,,"/>
+<approved hash="104,1,83.82,132.08,IC2,IN,N$7,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>
